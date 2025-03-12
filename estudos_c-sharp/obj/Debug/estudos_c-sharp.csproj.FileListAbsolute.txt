@@ -1,0 +1,9 @@
+C:\Projetos GitHub\estudos_c-sharp\estudos_c-sharp\estudos_c-sharp\bin\Debug\estudos_c-sharp.exe.config
+C:\Projetos GitHub\estudos_c-sharp\estudos_c-sharp\estudos_c-sharp\bin\Debug\estudos_c-sharp.exe
+C:\Projetos GitHub\estudos_c-sharp\estudos_c-sharp\estudos_c-sharp\bin\Debug\estudos_c-sharp.pdb
+C:\Projetos GitHub\estudos_c-sharp\estudos_c-sharp\estudos_c-sharp\obj\Debug\estudos_c-sharp.csproj.AssemblyReference.cache
+C:\Projetos GitHub\estudos_c-sharp\estudos_c-sharp\estudos_c-sharp\obj\Debug\estudos_c_sharp.Properties.Resources.resources
+C:\Projetos GitHub\estudos_c-sharp\estudos_c-sharp\estudos_c-sharp\obj\Debug\estudos_c-sharp.csproj.GenerateResource.cache
+C:\Projetos GitHub\estudos_c-sharp\estudos_c-sharp\estudos_c-sharp\obj\Debug\estudos_c-sharp.csproj.CoreCompileInputs.cache
+C:\Projetos GitHub\estudos_c-sharp\estudos_c-sharp\estudos_c-sharp\obj\Debug\estudos_c-sharp.exe
+C:\Projetos GitHub\estudos_c-sharp\estudos_c-sharp\estudos_c-sharp\obj\Debug\estudos_c-sharp.pdb
