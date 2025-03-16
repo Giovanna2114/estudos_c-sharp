@@ -55,6 +55,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Introducao\FormatacaoCaracteres.cs" />
     <Compile Include="Introducao\UsoConsole.cs" />
     <Compile Include="Introducao\Var_and_Const_Values.cs" />
     <Compile Include="Program.cs" />
