@@ -11,7 +11,7 @@ namespace estudos_c_sharp.Introducao
     {
 
 
-        static void Main(string[] args)
+        public void UsarConsole()
         {
 
             // Impressão no console output:

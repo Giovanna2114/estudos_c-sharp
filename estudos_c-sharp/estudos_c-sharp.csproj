@@ -33,7 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>estudos_c_sharp.Introducao.Var_and_Const_Values</StartupObject>
+    <StartupObject>
+    </StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -56,6 +57,7 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Introducao\FormatacaoCaracteres.cs" />
+    <Compile Include="Introducao\OperacoesBasicas.cs" />
     <Compile Include="Introducao\UsoConsole.cs" />
     <Compile Include="Introducao\Var_and_Const_Values.cs" />
     <Compile Include="Program.cs" />

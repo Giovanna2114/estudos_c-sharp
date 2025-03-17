@@ -9,7 +9,7 @@ namespace estudos_c_sharp.Introducao
     class FormatacaoCaracteres
     {
 
-        static void main(string[] args)
+        public void formatarCaracteres()
         {
             Console.WriteLine("Hello\nWorld"); // Adiciona uma quebra de linha.
             Console.WriteLine("Hello\tWorld"); // Adiciona um espaçamento entre as palavras.
@@ -42,8 +42,6 @@ namespace estudos_c_sharp.Introducao
             // Combinando literais textuais e interpolação de variáveis:
             string projectName = "First-Project";
             Console.WriteLine($@"C:\Output\{projectName}\Data");
-
-            
 
         }
     }

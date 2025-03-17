@@ -9,7 +9,7 @@ namespace estudos_c_sharp.Introducao
     class Var_and_Const_Values
     {
 
-        static void Main(string[] args)
+        public void variaveis_e_constantes()
         {
             // Char - Um único caractere alfanumérico:
             Console.WriteLine('G');
